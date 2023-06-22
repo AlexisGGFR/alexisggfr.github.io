@@ -9,5 +9,5 @@ Voici mon **linkedin** pour plus d'information: https://www.linkedin.com/in/alex
 Ici mon **github** ainsi que mon **replit** où il y a une grande partie de mes programmes réalisés :
 Mon github : https://github.com/AlexisGGFR et mon replit : https://replit.com/@GGAlexFR
 
-Voici mon **CV** : [CV](doc/CVAlexis2023V2.pdf)
+Voici mon **CV** : [CV](doc/CVAlexis2023V2SP.pdf)
 et les **matières effectué** durant mon parcours post-bac : [ECTS](doc/ECTS_Licence___Master.pdf)
