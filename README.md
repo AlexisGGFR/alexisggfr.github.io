@@ -11,7 +11,7 @@ Voici mon **linkedin** pour plus d'information: https://www.linkedin.com/in/alex
 Ici mon **github** ainsi que mon **replit** où il y a une partie de mes programmes réalisés :
 Mon github : https://github.com/AlexisGGFR et mon replit : https://replit.com/@GGAlexFR
 
-Voici mon **CV** : [CV](doc/CVAlexis2023V2SP.pdf)
+Voici mon **CV** : [CV](doc/CVAlexis2023.pdf)
 et les **matières effectué** durant mon parcours post-bac : [ECTS](doc/ECTS_Licence___Master.pdf)
 
 Formation actuel : https://www.universite-paris-saclay.fr/formation/master/informatique/m2-algorithmique-et-modelisation-linterface-des-sciences 
@@ -27,7 +27,7 @@ This is my **linkedin** for more information: https://www.linkedin.com/in/alexis
 Here my **github** and my **replit** where there is part of my programs made:
 Github : https://github.com/AlexisGGFR and Replit : https://replit.com/@GGAlexFR
 
-My **Resume** : [CV](doc/CVAlexis2023V2SP.pdf)
+My **Resume** : [CV](doc/CVAlexis2023EN.pdf)
 and **ECTS** after my french HS diploma : [ECTS](doc/ECTS_Licence___Master.pdf)
 
 
